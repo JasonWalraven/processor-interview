@@ -1,0 +1,8 @@
+{
+  "/processor/process-transactions/page": "app/processor/process-transactions/page.js",
+  "/reporting/transactions-by-card/page": "app/reporting/transactions-by-card/page.js",
+  "/reporting/rejected-transactions/page": "app/reporting/rejected-transactions/page.js",
+  "/reporting/transactions-by-card-type/page": "app/reporting/transactions-by-card-type/page.js",
+  "/reporting/transactions-per-day/page": "app/reporting/transactions-per-day/page.js",
+  "/processor/view-transactions/page": "app/processor/view-transactions/page.js"
+}

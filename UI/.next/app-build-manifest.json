@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/processor/process-transactions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/processor/process-transactions/page.js"
+    ],
+    "/reporting/transactions-by-card/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/reporting/transactions-by-card/page.js"
+    ],
+    "/reporting/rejected-transactions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/reporting/rejected-transactions/page.js"
+    ],
+    "/reporting/transactions-per-day/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/reporting/transactions-per-day/page.js"
+    ],
+    "/reporting/transactions-by-card-type/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/reporting/transactions-by-card-type/page.js"
+    ],
+    "/processor/view-transactions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/processor/view-transactions/page.js"
+    ]
+  }
+}
